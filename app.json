@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "superhero_cards",
-    "slug": "superhero_cards",
+    "name": "superhero_card",
+    "slug": "superhero_card",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/superhero.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
