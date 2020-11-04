@@ -1,5 +1,5 @@
 # superhero_cards
-<div style={flex-direction:row;display:flex;align-items:center;justify-content:space-between;}>
+<div style={flex-direction:row;display:flex;align-items:center;}>
   <img src="additionals/splash.png" width="200">
 <img src="additionals/superhero.png" width="200">
 
